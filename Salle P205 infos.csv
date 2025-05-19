@@ -1,0 +1,2 @@
+Salle,Numéro zone,Code_Salle,Superficie (m²),Besoin Utile en Chauffage (kwh/m²),Nombre d'ordinateurs,Puissance Utile par Ordinateurs(W),Puissance Utile Ordinateurs(W/m²),Projecteurs,Puissance Utile Eclairage (W/m²),Déperditions(w),Déperditions (kW/m²),Facteur lumière jour(%),Consigne de température en hiver(°C),Nombre de personnes max par salle
+Salle P205,10,SP30_P1_ET2,63,13,,,,1,8,2606,0.041365079,91.075,20 en occupation (réduit à 17 en inoccupation) ,31
